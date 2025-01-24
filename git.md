@@ -2,6 +2,8 @@
 
 ## **Comandos básicos de Git que debes conocer** 🛠️
 
+![image](https://github.com/user-attachments/assets/9cca2c2a-ea87-4676-9edd-e17584a20b18)
+
 Antes de comenzar, estos son los comandos esenciales que usarás al trabajar con Git:
 
 1. **`git init`** 🚀
