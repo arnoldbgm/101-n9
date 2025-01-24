@@ -1,5 +1,7 @@
 # Comandos Gitbash
 
+<img src="https://cdn.appuals.com/wp-content/uploads/2020/06/intro.jpg" width="300" />
+
 1. **`ls`** 🗂️
     
     Muestra lo que hay en la carpeta actual.
