@@ -2,18 +2,19 @@
 
 ## Ejercicio 1: Navegación básica
 1. Crea un directorio llamado **proyecto**.  
-   **Comando:** `mkdir proyecto`
-2. Entra al directorio **proyecto**.  
-   **Comando:** `cd proyecto`
-3. Vuelve al directorio anterior.  
-   **Comando:** `cd ..`
-4. Crea una nueva carpeta llamada **documentos** dentro de **proyecto**.  
-   **Comando:** `mkdir documentos`
-5. Dentro de **documentos**, crea otra carpeta llamada **imagenes**.  
-   **Comando:** `mkdir imagenes`
-6. Lista todos los directorios y archivos dentro de **proyecto**.  
-   **Comando:** `ls`
 
+2. Entra al directorio **proyecto**.  
+
+3. Vuelve al directorio anterior.  
+
+4. Crea una nueva carpeta llamada **documentos** dentro de **proyecto**.  
+
+5. Dentro de **documentos**, crea otra carpeta llamada **imagenes**.  
+
+6. Lista todos los directorios y archivos dentro de **proyecto**.  
+
+7. Abri tu Visual Studio Code
+8. Crea un archivo index.html dentro del directorio raiz
 ---
 
 ## Ejercicio 2: Archivos y directorios
