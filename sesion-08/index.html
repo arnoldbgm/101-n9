@@ -24,6 +24,46 @@
    </header>
    <!-- Header Fin -->
 
+   <script>
+      // Usando un prompt pedir el nombre del usuario
+      // Usando un prompt pedir la edad del usuario
+
+      // TIP averiguar como se convierte un string a un number en javascript
+
+      /*
+        Si la persona es mayor de edad (18 años), esta si puede ingresar a la discoteca, y en caso de ser menor esta no puede ingresar
+
+        Las respuestas deben de mostrarse usando alerts
+          - Bienvenido Juan, la casa invita;
+          - Retirate Juan, tienes 16 años;
+      */
+
+      let nameUser =  prompt("Escribe tu nombre");
+      let ageUser = parseInt(prompt("Escribe tu edad"));
+
+      if(ageUser >= 18){
+         alert("Bienvenido "+nameUser+", la casa invita")
+      }else{
+         alert("Retirate "+nameUser+", tienes"+ ageUser + "años");
+      }
+
+      /*
+         Reto 09
+         Crear un cajero electronico
+         1. Pedir mediante un prompt, cuanto dinero posees en tu cuenta.
+         2. Te va a mostrar un menu, en un prompt. solo va a tener 2 opciones:
+            1.  Añadir dinero a mi cuenta
+               1.1 Me mostrara otro propmt para que coloque el dinero a añadir
+               1.2 Me mostrara por un alert cuanto es mi dinero actual
+            2. Retirar dinero a mi cuenta
+               1.1 Me mostrara otro prompt para que coloque el dinero a retirar
+               1.2 Me mostrara por un alert cuanto es mi dinero restante
+         
+         OBSERVACIONES:
+         1. Si el dinero añadido es negativo (INGRESAR) te muestre un alert diciendo, "Operacion erronea"
+      */
+   </script>
+
 </body>
 
 </html>
